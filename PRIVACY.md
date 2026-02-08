@@ -84,13 +84,13 @@ We may update this Privacy Policy. Changes will be posted with a new "Last Updat
 ## Open Source Commitment
 
 ZenTab is open source. You can review our code at:
-**GitHub**: [Your Repository URL]
+**GitHub**: https://github.com/hellotosirius/zentab
 
 ## Contact
 
 For privacy concerns, contact:
-**Email**: [Your Email]
-**GitHub Issues**: [Your Repository URL]/issues
+**Email**: smileok2006@gmail.com
+**GitHub Issues**: https://github.com/hellotosirius/zentab/issues
 
 ---
 
